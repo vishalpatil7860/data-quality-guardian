@@ -1,0 +1,1 @@
+"""Data Quality Guardian — open-source data quality monitoring."""

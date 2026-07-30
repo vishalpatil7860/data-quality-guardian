@@ -1,0 +1,38 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+*.egg
+.eggs/
+
+# Environments
+.env
+.venv
+venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Data
+data/
+*.db
+*.sqlite3
+
+# DQ Guardian
+dq_config.yaml
+!examples/example_config.yaml
+~/.dqguardian/
+
+# Reports
+*.html
+reports/
